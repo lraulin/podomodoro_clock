@@ -1,0 +1,21 @@
+body {
+  background-image: url("fabrizio-verrecchia-180315.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+  display: inline;
+}
+
+#start {
+  margin: 10px;
+}
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 3rem;
+  border-radius: 50%;
+}
